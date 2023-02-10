@@ -152,7 +152,7 @@ font-weight: bolder;
 
 .link-button {
 margin: 0.3rem auto;
-padding: 0 0.5rem;
+padding: 0.3rem 0.5rem;
 background-color: var(--clr-primary-5);
 border-color: var(--clr-primary-5);
 color: var(--clr-grey-10);
